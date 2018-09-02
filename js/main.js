@@ -1,5 +1,4 @@
-global.jQuery = require('jquery');
-var $ = global.jQuery;
+var $ = require('jquery');
 
 require('jquery-bridget')
 require('jquery.easing');
